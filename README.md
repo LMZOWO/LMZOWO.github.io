@@ -29,8 +29,4 @@ Over time, variations of the "Hello World" phrase have emerged. Some examples in
 
 ### Conclusion
 
-In conclusion, "Hello World" is a phrase that has become deeply ingrained in the world of computer programming. Its composition, usage, and significance have made it a cultural icon, symbolizing the beginning of a programmer's journey and representing innovation and technology.d!" - This variation adds a comma and an exclamation mark to the original phrase.
-  * "Hello World!" - This variation adds an exclamation mark to the end of the phrase.
-  * "Hello, world!" - This variation uses a lowercase "w" in "world".
-
-In conclusion, "Hello World" is a phrase that has become deeply ingrained in the world of computer programming. Its composition, usage, and significance have made it a cultural icon, symbolizing the beginning of a programmer's journey and representing innovation and technology. 
+In conclusion, "Hello World" is a phrase that has become deeply ingrained in the world of computer programming. Its composition, usage, and significance have made it a cultural icon, symbolizing the beginning of a programmer's journey and representing innovation and technology.
